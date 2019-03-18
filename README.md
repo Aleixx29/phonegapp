@@ -4,7 +4,9 @@
 
 ## Fonctionnement de l'application
 
-**Attention :** Version minimale d'Android 7.1
+**Attention :** 
+- Version minimale d'Android 7.1
+- Autoriser dans son téléphone l'accés à l'appel, localisation et sms
 
 Lorsqu'on lance l'application Phonegapp, appuyer sur "OK" afin de passer la popup. 
 
