@@ -4,6 +4,8 @@
 
 ## Fonctionnement de l'application
 
+**Attention :** Version minimale d'Android 7.1
+
 Lorsqu'on lance l'application Phonegapp, appuyer sur "OK" afin de passer la popup. 
 
 Ensuite, entrer dans la barre de recherche à votre disposition le nom des étudiants du projet ( Claveau Alexandre ou Arnaud Prémel-Cabic). Cela va vous permettre de chercher dans la base de donnée du projet les étudiants.
@@ -14,3 +16,4 @@ Vous allez avoir différente actions possibles :
 - Vous pouvez passer un appel vers l'étudiant (Bureau ou Portable).
 - Envoyer un sms à l'étudiant.
 - Ajouter une localisation, elle sera visible en dessous du nom de l'étudiant (longitude & latitude).
+
